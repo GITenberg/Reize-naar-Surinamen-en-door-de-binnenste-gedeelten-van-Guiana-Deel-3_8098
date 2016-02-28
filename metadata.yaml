@@ -1,0 +1,25 @@
+_repo: Reize-naar-Surinamen-en-door-de-binnenste-gedeelten-van-Guiana-Deel-3_8098
+creator:
+  author:
+    agent_name: Stedman, John Gabriel
+    alias: Stedman, Jean-Gabriel
+    birthdate: 1744
+    deathdate: 1797
+    gutenberg_agent_id: '2640'
+    url: http://www.gutenberg.org/2009/agents/2640
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8098'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Suriname -- Description and travel'
+- !lcsh 'Slavery -- Suriname'
+- !lcc 'F2351'
+- !lcsh 'Suriname -- History -- To 1814'
+title: Reize naar Surinamen en door de binnenste gedeelten van Guiana — Deel 3
+url: http://www.gutenberg.org/ebooks/8098
